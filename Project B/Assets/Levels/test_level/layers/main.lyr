@@ -1,0 +1,9 @@
+<ObjectLayer>
+ <Layer Name="Main" FullName="Main" GUID="b7fca684-7a0b-6ab7-84ea-895c8f564b68" Hidden="0" Frozen="0" Expanded="0" Type="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="1" Color="4671303" Timestamp="1579900186">
+  <LayerObjects>
+   <Object Type="Brush" Layer="Main" LayerGUID="b7fca684-7a0b-6ab7-84ea-895c8f564b68" Id="c86568df-730e-7c72-ea14-b7731d5d9b46" Name="box-1" Pos="510.7919,529.51416,32.980652" Rotate="1,0,0,0" Scale="1,1,1" ColorRGB="16777215" UseCustomLevelLayerColor="0" Material="Objects/box" MinSpec="0" MatLayersMask="0" Prefab="Objects/box.cgf" IgnoreVisareas="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" ExcludeFromNavigation="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" IgnoreTerrainLayerBlend="0" IgnoreDecalBlend="0" RndFlags="180060000608">
+    <CollisionFiltering />
+   </Object>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>
