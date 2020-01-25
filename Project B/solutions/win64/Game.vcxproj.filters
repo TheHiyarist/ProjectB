@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\akiva\Documents\GitHub\GameProject\Project B\Code\StdAfx.cpp" />
+    <ClCompile Include="C:\Users\akiva\Documents\GitHub\GameProject\Project B\solutions\win64\Code_uber.cpp">
+      <Filter>UBER FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\akiva\Documents\GitHub\GameProject\Project B\solutions\win64\Components_uber.cpp">
+      <Filter>UBER FILES</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\akiva\Documents\GitHub\GameProject\Project B\Code\GamePlugin.cpp" />
+    <ClInclude Include="C:\Users\akiva\Documents\GitHub\GameProject\Project B\Code\GamePlugin.h" />
+    <ClInclude Include="C:\Users\akiva\Documents\GitHub\GameProject\Project B\Code\StdAfx.h" />
+    <ClInclude Include="C:\Users\akiva\Documents\GitHub\GameProject\Project B\Code\Components\Player.cpp">
+      <Filter>Components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\akiva\Documents\GitHub\GameProject\Project B\Code\Components\SpawnPoint.cpp">
+      <Filter>Components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\akiva\Documents\GitHub\GameProject\Project B\Code\Components\Bullet.h">
+      <Filter>Components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\akiva\Documents\GitHub\GameProject\Project B\Code\Components\Player.h">
+      <Filter>Components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\akiva\Documents\GitHub\GameProject\Project B\Code\Components\SpawnPoint.h">
+      <Filter>Components</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\akiva\Documents\GitHub\GameProject\Project B\Code\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\akiva\Documents\GitHub\GameProject\Project B\solutions\win64\Game.autogen.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Components">
+      <UniqueIdentifier>{3C1F88F5-CCC3-33B1-8CB9-FAC5B55538E0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{1951F534-CAF8-34F8-AC5F-19CF7851BA78}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UBER FILES">
+      <UniqueIdentifier>{B72147CA-F389-3D9B-B9FE-38FFF2F60069}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

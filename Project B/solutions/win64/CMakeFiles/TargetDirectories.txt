@@ -1,0 +1,9 @@
+C:/Users/akiva/Documents/GitHub/GameProject/Project B/solutions/win64/CMakeFiles/GameLauncher.dir
+C:/Users/akiva/Documents/GitHub/GameProject/Project B/solutions/win64/CMakeFiles/Game.dir
+C:/Users/akiva/Documents/GitHub/GameProject/Project B/solutions/win64/CMakeFiles/INSTALL.dir
+C:/Users/akiva/Documents/GitHub/GameProject/Project B/solutions/win64/CMakeFiles/Editor.dir
+C:/Users/akiva/Documents/GitHub/GameProject/Project B/solutions/win64/CMakeFiles/GameServer.dir
+C:/Users/akiva/Documents/GitHub/GameProject/Project B/solutions/win64/CMakeFiles/ALL_BUILD.dir
+C:/Users/akiva/Documents/GitHub/GameProject/Project B/solutions/win64/CMakeFiles/ZERO_CHECK.dir
+C:/Users/akiva/Documents/GitHub/GameProject/Project B/solutions/win64/CRYENGINE/CMakeFiles/INSTALL.dir
+C:/Users/akiva/Documents/GitHub/GameProject/Project B/solutions/win64/CRYENGINE/CMakeFiles/ALL_BUILD.dir
