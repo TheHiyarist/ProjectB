@@ -145,7 +145,7 @@
                     "Levels"
                 ]
             },
-            "mainViewSplitter": "AAAA/wAAAAEAAAAC/////wAAAQAB/////wEAAAABAA==",
+            "mainViewSplitter": "AAAA/wAAAAEAAAACAAAAOgAAAQAB/////wEAAAABAA==",
             "recursiveView": false,
             "showFolders": true,
             "thumbnailView": {
@@ -162,6 +162,7 @@
     },
     "Level Editor": {
         "Recent Files": [
+            "assets/Levels/test_level/test_level.level",
             "assets/levels/test_level/test_level.level"
         ]
     }
